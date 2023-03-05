@@ -1,0 +1,3 @@
+require "code_engine/tasks"
+
+task default: "ce:app:update"
