@@ -1,0 +1,12 @@
+
+# rspec failure tracking
+.rake_tasks
+.rspec_status
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
